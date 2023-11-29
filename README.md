@@ -4,5 +4,3 @@ A VERY stupid version of Simple M3U Maker.. Though this version doesn't actually
 # Building Requirements
 
 [Resource Hacker](http://angusj.com/resourcehacker/#download)
-\
-IExpress (For compressing Sempbul M3ur Mekur)
